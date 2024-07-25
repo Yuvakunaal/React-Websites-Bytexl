@@ -1,0 +1,11 @@
+1. open terminal
+2. check for node and npm is there or not
+if there :-
+    1. type -> npx create-react-app project
+    2. now 'project' folder will be created 
+    3. now type -> cd project
+    4. now type -> npm start
+ if not there :-
+ 1. check out this video and install those :- https://youtu.be/D3j28QWAELo?si=PuAN-uho5kfCVXD_
+ 2. after doing the above thing, close and open vs code.
+ 3. again repeat the above steps from open terminal step

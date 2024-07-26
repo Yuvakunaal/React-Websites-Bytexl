@@ -14,3 +14,8 @@ if there :-
  1. check out this video and install those :- https://youtu.be/D3j28QWAELo?si=PuAN-uho5kfCVXD_
  2. after doing the above thing, close and open vs code.
  3. again repeat the above steps from open terminal step
+
+
+Note :-
+ -- To run three file
+     -- run 'npm i react-router-dom' in terminal and then run three file

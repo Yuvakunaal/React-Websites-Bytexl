@@ -1,10 +1,15 @@
 1. open terminal
 2. check for node and npm is there or not
 if there :-
-    1. type -> npx create-react-app project
-    2. now 'project' folder will be created 
-    3. now type -> cd project
-    4. now type -> npm start
+    1. type -> npm create vite@latest folder1 --template react
+               asks for frameworks, with directions buttons go down and select 'react', click enter
+               asks for variant, select 'JavaScript',click enter
+    2. now 'folder1' folder will be created 
+    3. now type -> cd folder1
+    4. now type -> npm install
+    5. now type -> npm run dev
+    6. its gives you a local website copy and past it in google...You will see default webpage created by react developers
+    7. start coding...
  if not there :-
  1. check out this video and install those :- https://youtu.be/D3j28QWAELo?si=PuAN-uho5kfCVXD_
  2. after doing the above thing, close and open vs code.
